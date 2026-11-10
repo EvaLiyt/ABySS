@@ -1,6 +1,6 @@
 <package name='ABySS' version='0.0.2'>
     <depends on='BEAST.base' atleast='2.8.0'/>
-<!--    <depends on='BEAST_CLASSIC' atleast='1.6.4'/>-->
+    <depends on='BEAST_CLASSIC' atleast='1.7.0'/>
 
     <!-- add BEAST2 service below  -->
 

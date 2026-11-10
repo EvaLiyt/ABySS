@@ -50,6 +50,8 @@
             <outputDirectory>/lib</outputDirectory>
             <includes>
                 <include>io.github.jsaghafifar:abyss-beast</include>
+                <!-- required by module-info (requires colt) -->
+                <include>colt:colt</include>
             </includes>
             <useTransitiveDependencies>false</useTransitiveDependencies>
         </dependencySet>
